@@ -1,0 +1,14 @@
+C:\STRUKDAT\Vidio6\bin\Debug\net9.0\Vidio6.exe
+C:\STRUKDAT\Vidio6\bin\Debug\net9.0\Vidio6.deps.json
+C:\STRUKDAT\Vidio6\bin\Debug\net9.0\Vidio6.runtimeconfig.json
+C:\STRUKDAT\Vidio6\bin\Debug\net9.0\Vidio6.dll
+C:\STRUKDAT\Vidio6\bin\Debug\net9.0\Vidio6.pdb
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.AssemblyInfoInputs.cache
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.AssemblyInfo.cs
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.csproj.CoreCompileInputs.cache
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.dll
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\refint\Vidio6.dll
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.pdb
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\Vidio6.genruntimeconfig.cache
+C:\STRUKDAT\Vidio6\obj\Debug\net9.0\ref\Vidio6.dll

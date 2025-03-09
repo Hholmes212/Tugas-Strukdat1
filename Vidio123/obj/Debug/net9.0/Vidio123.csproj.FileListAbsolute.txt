@@ -1,0 +1,14 @@
+C:\STRUKDAT\Vidio123\bin\Debug\net9.0\Vidio123.exe
+C:\STRUKDAT\Vidio123\bin\Debug\net9.0\Vidio123.deps.json
+C:\STRUKDAT\Vidio123\bin\Debug\net9.0\Vidio123.runtimeconfig.json
+C:\STRUKDAT\Vidio123\bin\Debug\net9.0\Vidio123.dll
+C:\STRUKDAT\Vidio123\bin\Debug\net9.0\Vidio123.pdb
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.GeneratedMSBuildEditorConfig.editorconfig
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.AssemblyInfoInputs.cache
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.AssemblyInfo.cs
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.csproj.CoreCompileInputs.cache
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.dll
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\refint\Vidio123.dll
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.pdb
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\Vidio123.genruntimeconfig.cache
+C:\STRUKDAT\Vidio123\obj\Debug\net9.0\ref\Vidio123.dll

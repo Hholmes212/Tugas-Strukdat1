@@ -1,0 +1,14 @@
+C:\STRUKDAT\Vidio4\bin\Debug\net9.0\Vidio4.exe
+C:\STRUKDAT\Vidio4\bin\Debug\net9.0\Vidio4.deps.json
+C:\STRUKDAT\Vidio4\bin\Debug\net9.0\Vidio4.runtimeconfig.json
+C:\STRUKDAT\Vidio4\bin\Debug\net9.0\Vidio4.dll
+C:\STRUKDAT\Vidio4\bin\Debug\net9.0\Vidio4.pdb
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.AssemblyInfoInputs.cache
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.AssemblyInfo.cs
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.csproj.CoreCompileInputs.cache
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.dll
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\refint\Vidio4.dll
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.pdb
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\Vidio4.genruntimeconfig.cache
+C:\STRUKDAT\Vidio4\obj\Debug\net9.0\ref\Vidio4.dll

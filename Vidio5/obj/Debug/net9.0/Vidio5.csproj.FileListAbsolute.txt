@@ -1,0 +1,14 @@
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.AssemblyInfoInputs.cache
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.AssemblyInfo.cs
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.csproj.CoreCompileInputs.cache
+C:\STRUKDAT\Vidio5\bin\Debug\net9.0\Vidio5.exe
+C:\STRUKDAT\Vidio5\bin\Debug\net9.0\Vidio5.deps.json
+C:\STRUKDAT\Vidio5\bin\Debug\net9.0\Vidio5.runtimeconfig.json
+C:\STRUKDAT\Vidio5\bin\Debug\net9.0\Vidio5.dll
+C:\STRUKDAT\Vidio5\bin\Debug\net9.0\Vidio5.pdb
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.dll
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\refint\Vidio5.dll
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.pdb
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\Vidio5.genruntimeconfig.cache
+C:\STRUKDAT\Vidio5\obj\Debug\net9.0\ref\Vidio5.dll
